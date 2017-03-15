@@ -14,6 +14,7 @@ libraryDependencies ++= Seq(
   "org.scalactic" %% "scalactic" % scalatestVersion,
   "org.scalatest" %% "scalatest" % scalatestVersion % "test",
 
+//  "io.argonaut" %% "argonaut" % "6.1",
   "org.http4s" %% "http4s-dsl" % http4sVersion,
   "org.http4s" %% "http4s-argonaut" % http4sVersion,
   "org.http4s" %% "http4s-blaze-server" % http4sVersion,
